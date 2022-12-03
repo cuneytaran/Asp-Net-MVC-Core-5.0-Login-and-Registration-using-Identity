@@ -8,7 +8,7 @@ using System.Linq;
 using System.Threading.Tasks;
 
 namespace AccountApplication.Controllers
-{
+{//Test
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
